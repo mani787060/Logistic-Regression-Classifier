@@ -135,4 +135,3 @@ A synthetic clustering dataset used to visualize how Logistic Regression separat
 ## 🏁 Conclusion
 
 This project demonstrates the complete workflow of building a Logistic Regression classifier using synthetic datasets. From data generation and preprocessing to model training, evaluation, and visualization, it provides a solid foundation for understanding binary classification and serves as an excellent starting point for more advanced machine learning algorithms.
-
